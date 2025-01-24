@@ -1,5 +1,5 @@
-import Grass_1 from "../assets/Grass_1.png";
-import Moank_1 from "../assets/Moank_1.png";
+import Grass_1 from "../../public/assets/Grass_1.png";
+import Moank_1 from "../../public/assets/Moank_1.png";
 
 function Main() {
   return (
