@@ -1,7 +1,7 @@
-import Serve_bg from "../assets/Serve_bg.png"; // Your actual background image import
-import Social_1 from "../assets/Social_1.png";
-import Astro_1 from "../assets/Astro_1.png";
-import Psych_1 from "../assets/Psych_1.png";
+import Serve_bg from "../../public/assets/Serve_bg.png"; // Your actual background image import
+import Social_1 from "../../public/assets/social_1.png";
+import Astro_1 from "../../public/assets/Astro_1.png";
+import Psych_1 from "../../public/assets/Psych_1.png";;
 
 function Services() {
   return (

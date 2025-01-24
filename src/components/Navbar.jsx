@@ -1,5 +1,5 @@
 import { useState, useEffect } from "react";
-import Karma_logo from "../assets/Karma_logo1.png"; // Import the logo image
+import Karma_logo from "../../public/assets/Karma_logo1.png"; // Import the logo image
 
 const Navbar = () => {
   const [scrolling, setScrolling] = useState(false);
